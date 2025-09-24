@@ -1,6 +1,3 @@
-Got it! I’ll create a **detailed, professional `README.md`** for your SMTP server project with step-by-step instructions, commands, configuration notes, and best practices. This version is suitable for GitHub and will clearly show your technical skills.
-
-````markdown
 # 📧 Self-Hosted SMTP Email Server – tyfsadik.org
 
 This repository documents the setup and configuration of my **self-hosted SMTP email server** running on **Linux** for my personal domain **tyfsadik.org**. It handles sending and receiving emails securely and reliably.
