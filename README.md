@@ -1,4 +1,4 @@
-📧 Self-Hosted SMTP Email Server – tyfsadik.org
+# 📧 Self-Hosted SMTP Email Server – tyfsadik.org
 
 A complete, production-ready self-hosted SMTP email server implementation for the domain tyfsadik.org. This setup ensures secure, reliable email delivery with enterprise-grade authentication protocols and security measures.
 
