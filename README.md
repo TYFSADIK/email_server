@@ -263,6 +263,5 @@ MIT License - feel free to use this configuration for your own projects.
 
 ---
 
-*Last updated: March 2024 | Version: 2.0 | Status: Production Ready*
 
 **⭐ If this project helped you, please consider giving it a star on GitHub!**
